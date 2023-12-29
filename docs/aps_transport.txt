@@ -1,0 +1,10 @@
+Loading View -> (Sl No, Challan Date, Challan No, Vehicle Number, Owner's Name) [View, Edit]
+
+Loading View Modal -> (Challan Date	Broker Name	Challan No	Vehicle No	L.Qty	Products	L.Point		Price/MT	UL.Point	UL.Qty		Fuel Amt.	Cash Amt.	Total Adv.(Fuel Amt. + Cash Amt.)	Driver Commission	Broker Commission	Owner's Name	Owner's Bill No		Client's Bill No 	Created By	 Updated By)
+
+1. Fund transfer Type Change to -> NEFT, 
+2. Vehicle field can be NA
+3. Loading/ Unloading can be edit from Loading/ Unloading View Modal, and Edit and Delete button will be Remove.
+4. Unloading view will be same as the reference software
+5. Cash Book entry view -> Date, Cashier Name, Transaction Type, Amount, Narration [Save]
+6. Cash Book View -> SL No, Date, Cashier Name, Transaction Type, Amount, Narration [EDIT, DELETE] 
