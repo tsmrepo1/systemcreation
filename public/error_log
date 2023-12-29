@@ -1,0 +1,391 @@
+[21-Jul-2023 17:51:23 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:46 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:46 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:47 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:48 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:51:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:22 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:29 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:32 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:36 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:47 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:49 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:52:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:53:41 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:53:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:54:51 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:54:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:55:06 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:55:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:55:27 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:55:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:55:37 UTC] PHP Warning:  require(/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[21-Jul-2023 17:55:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/apsmafkz/logistics.apsgroup.in/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/apsmafkz/logistics.apsgroup.in/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/apsmafkz/logistics.apsgroup.in/public/index.php on line 34
+[14-Dec-2023 12:03:43 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\DB as DB because the name is already in use in /home6/thinksurfmedia/systemcreation.thinksurfmedia.in/app/Http/Controllers/DashboardController.php on line 10
