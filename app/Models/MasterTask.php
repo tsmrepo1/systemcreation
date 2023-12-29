@@ -23,6 +23,7 @@ class MasterTask extends Model
         "assigned_date",
         "frequency",
         "time",
+        "priority",
         "created_by",
         "assigned_by",
         "assigned_to",

@@ -114,6 +114,15 @@
         <option value="abc">ABC</option>
     </select>
 </div>
+<div class="mb-3">
+    <label for="prio" class="form-label">Task Priority</label>
+    <select class="form-select" aria-label="Default select example" name="taskprio">
+        <option value="" disabled selected>-- Select --</option>
+        <option value="high">High</option>
+        <option value="medium">Medium</option>
+        <option value="low">Low</option>
+    </select>
+</div>
 <?php $currentDate = now()->format('Y-m-d'); ?>
                                         
 

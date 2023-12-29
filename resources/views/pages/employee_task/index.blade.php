@@ -120,7 +120,7 @@
 
                                                 <td>{{ $record->task->description }}</tde=>
 
-                                                <td></td>
+                                                <td>{{ $record->task->priority }}</td>
 
                                                 <td>{{ $record->due }}</td>
                                                 <td>{{ $record->task->for_company }}</td>

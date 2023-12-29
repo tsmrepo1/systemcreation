@@ -107,12 +107,23 @@ class DashboardController extends Controller
             $final_outcome["total_Pending_Dl"] = $dl - $domp_dl;
             $final_outcome["score_Dl"] = $dl_per;
 
-            $valls = DB::table('employee_tasks')
-    ->join('master_tasks', 'employee_tasks.task_id', '=', 'master_tasks.id')
-    ->join('users','users.id','=','master_tasks.assigned_by')
-    ->join('users as ussu','ussu.id','=','master_tasks.assigned_id')
-    ->select('employee_tasks.*', 'master_tasks.*','users.name as assigner','ussu.name as doer') // Select columns as needed
-    ->get();
+            if(auth()->user()->role == 1){
+                $valls = DB::table('employee_tasks')
+                ->join('master_tasks', 'employee_tasks.task_id', '=', 'master_tasks.id')
+                ->join('users','users.id','=','master_tasks.assigned_by')
+                ->join('users as ussu','ussu.id','=','master_tasks.assigned_id')
+                ->select('employee_tasks.*', 'master_tasks.*','users.name as assigner','ussu.name as doer') // Select columns as needed
+                ->get();
+            }elseif(auth()->user()->role == 2){
+                $valls = DB::table('employee_tasks')
+                ->join('master_tasks', 'employee_tasks.task_id', '=', 'master_tasks.id')
+                ->join('users','users.id','=','master_tasks.assigned_by')
+                ->where('master_tasks.created_by',auth()->user()->id)
+                ->join('users as ussu','ussu.id','=','master_tasks.assigned_id')
+                ->select('employee_tasks.*', 'master_tasks.*','users.name as assigner','ussu.name as doer') // Select columns as needed
+                ->get();
+            }
+           
 
     $final_outcome['taskdet'] = $valls;
     

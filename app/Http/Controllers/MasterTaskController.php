@@ -83,6 +83,7 @@ class MasterTaskController extends Controller
         $task->description      = $request->description;
         $task->due              = $request->due;
         $task->assigned_date    = $request->assigned_date;
+        $task->priority         = $request->taskprio;
         $task->for_company    =   $request->for_company;
         $task->frequency        = $request->frequency;
         $task->created_by       = auth()->user()->id;

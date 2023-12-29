@@ -18,7 +18,7 @@
                                 <p class="mb-1 text-white">My EM Score</p>
                                 <h3 class="mb-3 text-white">{{ ($records['score_Cl'] + $records['score_Dl'])/2 }} %</h3>
                                 <a class="text-white" href="{{route('emscore')}}">View Details</a>
-                                @if(auth()->user()->role == 1)
+                                @if((auth()->user()->role == 1)||(auth()->user()->role == 2))
                                 <!-- Full-width table -->
                                 <table class="table table-sm table-bordered" style="width: 100%;color:white">
 
