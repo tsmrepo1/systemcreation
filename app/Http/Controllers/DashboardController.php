@@ -119,8 +119,8 @@ class DashboardController extends Controller
                 ->join('master_tasks', 'employee_tasks.task_id', '=', 'master_tasks.id')
                 ->join('users','users.id','=','master_tasks.assigned_by')
                 ->where('master_tasks.created_by',auth()->user()->id)
-                ->join('users as ussu','ussu.id','=','master_tasks.assigned_id')
-                ->select('employee_tasks.*', 'master_tasks.*','users.name as assigner','ussu.name as doer') // Select columns as needed
+                ->join('users as ussu','ussu.id','=','employee_tasks.user_id')
+                ->select('employee_tasks.*', 'master_tasks.*','users.name as assigner','ussu.name as doer')
                 ->get();
             }
            

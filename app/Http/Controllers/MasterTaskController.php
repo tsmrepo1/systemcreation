@@ -143,11 +143,11 @@ class MasterTaskController extends Controller
                 
             
             $html = "<table style='border-collapse: collapse; width: 100%;'><thead><tr><th style='border: 1px solid black;'>Tracking ID.</th><th style='border: 1px solid black;'>PROJECT ID</th><th style='border: 1px solid black;'>TASK NAME</th><th style='border: 1px solid black;'>DESCRIPTION</th><th style='border: 1px solid black;'>PLANNED DATE</th><th style='border: 1px solid black;'>FOR COMPANY</th><th style='border: 1px solid black;'>Assigned By</th><th style='border: 1px solid black;'>Created</th></tr></thead><tbody><tr><td style='border: 1px solid black;'>".htmlspecialchars($deet->tracking_id)."</td><td style='border: 1px solid black;'>".htmlspecialchars($deet->tracking_id)."</td><td style='border: 1px solid black;'>".htmlspecialchars($deet->name)."</td><td style='border: 1px solid black;'>".htmlspecialchars($deet->description)."</td><td style='border: 1px solid black;'>".htmlspecialchars($deet->due)."</td><td style='border: 1px solid black;'>".htmlspecialchars($deet->for_company)."</td><td style='border: 1px solid black;'>".htmlspecialchars($deet->Naam)."</td><td style='border: 1px solid black;'>".htmlspecialchars($deet->assigned_date)."</td></tr></tbody></table>";
-         Mail::send([], [], function ($message) use ($recipients, $html) {
-    $message->to($recipients)
-            ->subject('A Task Has Been Created')
-            ->html($html); // Set your HTML content here
-});
+//          Mail::send([], [], function ($message) use ($recipients, $html) {
+//     $message->to($recipients)
+//             ->subject('A Task Has Been Created')
+//             ->html($html); // Set your HTML content here
+// });
 $commaSeparatedString = implode(', ', $namess);
 
  $user = User::find(auth()->user()->id);
