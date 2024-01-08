@@ -75,6 +75,7 @@ class LiveviewController extends Controller
  
   public function doupdate(Request $request, $id){
 
+    
  $currentDateInIndia = Carbon::now('Asia/Kolkata');
     DB::table('employee_tasks')
     ->where('id', $id)
@@ -90,6 +91,8 @@ class LiveviewController extends Controller
     ->where('employee_tasks.id', '=', $id) // Replace 'column_name' with the column you want to filter and 'value' with the filter value
     ->get();
 
+    $item = $resultngg->first();
+
     $record = DB::table('employee_tasks')
     ->join('master_tasks', 'employee_tasks.task_id', '=', 'master_tasks.id')
     ->join('users', 'users.id', '=', 'employee_tasks.user_id')
@@ -100,13 +103,13 @@ class LiveviewController extends Controller
      $user = User::find(auth()->user()->id);
     $naam = $user->name;
     $formattedDate = $currentDateInIndia->format('Y-m-d H:i:s');
-    $logg = $naam." has updated the task, ".$resultngg->name.", for the employee,".$resultngg->Naam." at ".$formattedDate;
+    $logg = $naam." has updated the task, ".$item->name.", for the employee,".$item->Naam." at ".$formattedDate;
     DB::table('master_log')->insert([
     'log_desc' => $logg,
     'user_id' => auth()->user()->id
 ]);
-  
-    return view("pages.master_task.deleupdate", ["records" => $record]);
+return redirect()->route('rev_date-modify');
+   
   }
   
   public function userslog(){
